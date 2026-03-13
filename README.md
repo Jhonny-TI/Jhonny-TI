@@ -30,10 +30,10 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 
 ---
 
-## 🛠 Ferramentas:
+## 🛠 Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,xampp,anydesk"/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,xampp,figma"/>
 </p>
 
 ---
