@@ -25,7 +25,7 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 ## 🚀 Linguagens 
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,php,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,php,react,bootstrap"/>
 </p>
 
 ---
