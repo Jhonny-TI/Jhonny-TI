@@ -1,7 +1,7 @@
 <h1 align="center">João Pedro Silva do Prado</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+formação;Estudante+de+Tecnologia;Futuro+Full+Stack">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+formação;Estudante+de+TI;Futuro+Full+Stack">
 </p>
 
 <p align="center">
