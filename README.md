@@ -22,21 +22,19 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Linguagens 
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,php,react,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,php,react"/>
 </p>
 
 ---
 
 ## 🛠 Ferramentas:
 
-- Git
-- GitHub
-- VS Code
-- Android Studio
-- XAMPP
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,xampp,anydesk"/>
+</p>
 
 ---
 
