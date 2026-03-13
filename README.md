@@ -33,7 +33,7 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 ## 🛠 Ferramentas
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,canva,figma"/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,figma"/>
 </p>
 
 ---
