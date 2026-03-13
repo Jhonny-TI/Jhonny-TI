@@ -14,16 +14,38 @@
 
 Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado em aprender novas tecnologias e criar projetos inovadores.
 
-🎓 Senac  
-🏫 CEMEIT  
+🎓 Estudante de Analise e Desenvolvimento de Sistemas e Tecnologia na **Centro Universitário Estácio**  
+🎓 Técnico de Desenvolvimento de Sistema **Senac**
+🏫 Ensino médio no **CEMEIT**  
+💻 Apaixonado por programação, tecnologia e desenvolvimento de sistemas  
+🚀 Buscando evoluir como **Desenvolvedor Full Stack**
 
 ---
 
 ## 🚀 Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,react,css,js,java,php,mysql,git,github,vscode"/>
 </p>
+
+---
+
+## 🛠 Ferramentas:
+
+- Git
+- GitHub
+- VS Code
+- Android Studio
+- XAMPP
+
+---
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Web
+- Banco de Dados
+- Segurança da Informação
+- Desenvolvimento de Apps Android
 
 ---
 
@@ -40,3 +62,5 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 
 📧 Email: jp0443875@gmail.com  
 📱 Telefone: (61) 98455-9485
+
+⭐ *Sempre aprendendo algo novo no mundo da tecnologia!*
