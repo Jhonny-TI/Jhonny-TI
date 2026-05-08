@@ -16,6 +16,7 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 
 🎓 Estudante de Analise e Desenvolvimento de Sistemas e Tecnologia na **Centro Universitário Estácio**  
 🎓 Técnico de Desenvolvimento de Sistema **Senac**
+
 🏫 Ensino médio no **CEMEIT**  
 💻 Apaixonado por programação, tecnologia e desenvolvimento de sistemas  
 🚀 Buscando evoluir como **Desenvolvedor Full Stack**
