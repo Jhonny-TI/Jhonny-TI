@@ -51,7 +51,7 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jhonny-TI&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://streak-stats.demolab.com/?user=Jhonny-TI&theme=tokyonight"/>
+
 </p>
 
 ---
