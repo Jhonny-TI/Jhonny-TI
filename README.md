@@ -93,6 +93,14 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 
 ---
 
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics">
+</p>
+
+---
+
 ## 🌐 Contato 
 <p>📧 Email: jp0443875@gmail.com</p> 
 <p>📱 Telefone: (61) 98455-9485 </p>
