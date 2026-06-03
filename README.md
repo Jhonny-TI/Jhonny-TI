@@ -74,7 +74,8 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 <p>⭐ *Sempre aprendendo algo novo no mundo da tecnologia!*</p>
 
 ---
+## 🐍 Snake Game
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Jhonny-TI&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
