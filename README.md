@@ -93,8 +93,6 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 
 ---
 
-## 📊 GitHub Metrics
-
 <p align="center">
   <img src="/github-metrics.svg" alt="Metrics">
 </p>
