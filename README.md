@@ -29,13 +29,17 @@
 
 ## 🚀 Sobre Mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Estácio**
+Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado em aprender novas tecnologias e criar projetos inovadores. 
 
-🎓 Técnico em **Desenvolvimento de Sistemas** pelo **Senac**
+🎓 Estudante de Analise e Desenvolvimento de Sistemas e Tecnologia na **Centro Universitário Estácio** 
 
-🏫 Ensino Médio no **CEMEIT**
+🎓 Técnico de Desenvolvimento de Sistema **Senac** 
 
-💡 Gosto de desenvolver aplicações web, mobile e explorar novas tecnologias.
+🏫 Ensino médio no **CEMEIT** 
+
+💻 Apaixonado por programação, tecnologia e desenvolvimento de sistemas 
+
+🚀 Buscando evoluir como **Desenvolvedor Full Stack**.
 
 📱 Atualmente desenvolvendo projetos com **React Native**, **Java**, **Python** e **Banco de Dados**.
 
@@ -59,6 +63,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonny-TI&layout=compact&theme=github_dark" /> </p> 
 
 --- ## 🌐 Contato 
-📧 Email: jp0443875@gmail.com 
-📱 Telefone: (61) 98455-9485 
-⭐ *Sempre aprendendo algo novo no mundo da tecnologia!*
+<p>
+<p>📧 Email: jp0443875@gmail.com</p> 
+<p>📱 Telefone: (61) 98455-9485 </p>
+<p>⭐ *Sempre aprendendo algo novo no mundo da tecnologia!*</p>
