@@ -74,5 +74,5 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 <p>⭐ *Sempre aprendendo algo novo no mundo da tecnologia!*</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/pacman.svg">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
