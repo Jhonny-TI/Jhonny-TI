@@ -47,37 +47,46 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 
 ---
 # 🛠️ Tech Stack
-
-##👨‍💻 Linguagens
+---
+## 👨‍💻 Linguagens
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
 </p>
+
 ---
- ##📚 Frameworks & Bibliotecas
+
+## 📚 Frameworks & Bibliotecas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,bootstrap,nodejs" />
 </p>
+
 ---
-##🗄️ Banco de Dados
+
+## 🗄️ Banco de Dados
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
+
 ---
-##🔧 Ferramentas
+
+## 🔧 Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
 </p>
+
 ---
-##💻 Sistemas Operacionais
+
+## 💻 Sistemas Operacionais
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux" />
 </p>
 
 ---
+
 ## 📊 Estatísticas 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jhonny-TI&show_icons=true&theme=github_dark" /></p> 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonny-TI&layout=compact&theme=github_dark" /> </p> 
