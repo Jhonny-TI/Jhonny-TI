@@ -46,15 +46,38 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 🎯 Objetivo: Tornar-me um **Desenvolvedor Full Stack** e contribuir para projetos que impactem positivamente a vida das pessoas.
 
 ---
-## 🚀 Linguagens 
+# 🛠️ Tech Stack
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,python,bootstrap,java"/> </p> 
+### 👨‍💻 Linguagens
 
---- 
-## 🛠 Ferramentas 
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,figma"/> </p> 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
+</p>
 
---- 
+### 📚 Frameworks & Bibliotecas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,nodejs" />
+</p>
+
+### 🗄️ Banco de Dados
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</p>
+
+### 🔧 Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
+</p>
+
+### 💻 Sistemas Operacionais
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux" />
+</p>
+---
 ## 🏆 Conquistas
 
 <p align="center">
