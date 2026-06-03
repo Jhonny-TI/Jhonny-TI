@@ -26,7 +26,10 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 ## 🚀 Linguagens 
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,php,react,python,bootstrap"/>
+![João GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhonny-TI&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonny-TI&layout=compact&theme=tokyonight)
+
 </p>
 
 ---
