@@ -55,12 +55,26 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,figma"/> </p> 
 
 --- 
+## 🏆 Conquistas
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Jhonny-TI&theme=tokyonight&no-frame=true"/>
+</p>
+
+---
 ## 📊 Estatísticas 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jhonny-TI&show_icons=true&theme=github_dark" /></p> 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonny-TI&layout=compact&theme=github_dark" /> </p> 
 
---- 
+---
+
 ## 🌐 Contato 
 <p>📧 Email: jp0443875@gmail.com</p> 
 <p>📱 Telefone: (61) 98455-9485 </p>
 <p>⭐ *Sempre aprendendo algo novo no mundo da tecnologia!*</p>
+
+---
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Jhonny-TI&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</p>
