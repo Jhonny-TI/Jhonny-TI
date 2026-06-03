@@ -1,67 +1,44 @@
-<h1 align="center">João Pedro Silva do Prado</h1>
+<h1 align="center">👋 Olá, eu sou João Pedro Silva do Prado</h1>
+
+<h3 align="center">💻 Desenvolvedor Full Stack em Formação | 🚀 Apaixonado por Tecnologia</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+formação;Estudante+de+TI;Futuro+Full+Stack">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Estudante+de+ADS;Futuro+Desenvolvedor+Full+Stack;Sempre+Aprendendo+Algo+Novo" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Jhonny-TI&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Jhonny-TI&label=VISITAS&color=00F7FF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Jhonny-TI?label=Seguidores&style=for-the-badge&color=00F7FF"/>
+  <img src="https://img.shields.io/github/stars/Jhonny-TI?affiliations=OWNER&style=for-the-badge&color=00F7FF"/>
 </p>
 
----
-
-## 👨‍💻 Sobre mim
-
-Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado em aprender novas tecnologias e criar projetos inovadores.
-
-🎓 Estudante de Analise e Desenvolvimento de Sistemas e Tecnologia na **Centro Universitário Estácio**  
-🎓 Técnico de Desenvolvimento de Sistema **Senac**
-
-🏫 Ensino médio no **CEMEIT**  
-💻 Apaixonado por programação, tecnologia e desenvolvimento de sistemas  
-🚀 Buscando evoluir como **Desenvolvedor Full Stack**
-
----
-
-## 🚀 Linguagens 
+<p align="center">
+  <a href="mailto:jp0443875@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/Jhonny-TI">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,bootstrap"/>
+  <img width="500" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 </p>
 
 ---
 
-## 🛠 Ferramentas
+## 🚀 Sobre Mim
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,figma"/>
-</p>
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Estácio**
+
+🎓 Técnico em **Desenvolvimento de Sistemas** pelo **Senac**
+
+🏫 Ensino Médio no **CEMEIT**
+
+💡 Gosto de desenvolver aplicações web, mobile e explorar novas tecnologias.
+
+📱 Atualmente desenvolvendo projetos com **React Native**, **Java**, **Python** e **Banco de Dados**.
+
+🎯 Objetivo: Tornar-me um **Desenvolvedor Full Stack** e contribuir para projetos que impactem positivamente a vida das pessoas.
 
 ---
-
-## 📚 Atualmente estudando
-
-- Desenvolvimento Web
-- Banco de Dados
-- Segurança da Informação
-- Desenvolvimento de Apps Android
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhonny-TI&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonny-TI&layout=compact&theme=github_dark" />
-</p>
----
-
-## 🌐 Contato
-
-📧 Email: jp0443875@gmail.com  
-📱 Telefone: (61) 98455-9485
-
-⭐ *Sempre aprendendo algo novo no mundo da tecnologia!*
