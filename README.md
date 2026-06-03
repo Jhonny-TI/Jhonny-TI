@@ -48,31 +48,31 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 ---
 # 🛠️ Tech Stack
 
-<p align="center">👨‍💻 Linguagens</p>
+<p align="center"> ##👨‍💻 Linguagens</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
 </p>
 
-<p align="center">📚 Frameworks & Bibliotecas</p>
+<p align="center"> ##📚 Frameworks & Bibliotecas</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,bootstrap,nodejs" />
 </p>
 
-<p align="center"> 🗄️ Banco de Dados</p>
+<p align="center"> ##🗄️ Banco de Dados</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </p>
 
-<p align="center">🔧 Ferramentas</p>
+<p align="center"> ##🔧 Ferramentas</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
 </p>
 
-<p align="center">💻 Sistemas Operacionais</p>
+<p align="center"> ##💻 Sistemas Operacionais</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux" />
