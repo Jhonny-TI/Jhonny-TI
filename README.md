@@ -42,3 +42,23 @@
 🎯 Objetivo: Tornar-me um **Desenvolvedor Full Stack** e contribuir para projetos que impactem positivamente a vida das pessoas.
 
 ---
+## 🚀 Linguagens 
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,python,bootstrap"/> </p> 
+
+--- 
+## 🛠 Ferramentas 
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,figma"/> </p> 
+
+--- 
+## 📚 Atualmente estudando - Desenvolvimento Web - Banco de Dados - Segurança da Informação - Desenvolvimento de Apps Android 
+
+--- 
+## 📊 Estatísticas 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jhonny-TI&show_icons=true&theme=github_dark" /></p> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonny-TI&layout=compact&theme=github_dark" /> </p> 
+
+--- ## 🌐 Contato 
+📧 Email: jp0443875@gmail.com 
+📱 Telefone: (61) 98455-9485 
+⭐ *Sempre aprendendo algo novo no mundo da tecnologia!*
