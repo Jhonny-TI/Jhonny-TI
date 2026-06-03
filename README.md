@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou João Pedro Silva do Prado</h1>
 
-<h3 align="center">💻 Desenvolvedor Full Stack em Formação | 🚀 Apaixonado por Tecnologia</h3>
+<h3 align="center">💻 Desenvolvedor Full Stack em Formação </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Estudante+de+ADS;Futuro+Desenvolvedor+Full+Stack;Sempre+Aprendendo+Algo+Novo" />
@@ -55,8 +55,11 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,figma"/> </p> 
 
 --- 
-## 📚 Atualmente estudando - Desenvolvimento Web - Banco de Dados - Segurança da Informação - Desenvolvimento de Apps Android 
-
+## 📚 Atualmente estudando 
+- Desenvolvimento Web
+ - Banco de Dados
+   - Segurança da Informação
+      - Desenvolvimento de Apps Android 
 --- 
 ## 📊 Estatísticas 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jhonny-TI&show_icons=true&theme=github_dark" /></p> 
