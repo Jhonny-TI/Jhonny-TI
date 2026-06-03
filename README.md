@@ -55,12 +55,6 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio,figma"/> </p> 
 
 --- 
-## 📚 Atualmente estudando 
-- Desenvolvimento Web
-- Banco de Dados
-- Segurança da Informação
-- Desenvolvimento de Apps Android 
---- 
 ## 📊 Estatísticas 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jhonny-TI&show_icons=true&theme=github_dark" /></p> 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonny-TI&layout=compact&theme=github_dark" /> </p> 
