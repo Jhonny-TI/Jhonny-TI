@@ -73,9 +73,6 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 <p>📱 Telefone: (61) 98455-9485 </p>
 <p>⭐ *Sempre aprendendo algo novo no mundo da tecnologia!*</p>
 
----
-## 🐍 Snake Game
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/pacman.svg">
 </p>
