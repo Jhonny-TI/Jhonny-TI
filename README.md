@@ -51,13 +51,12 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 ## 📊 Estatísticas
 
 <p align="center">
-  
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=Jhonny-TI&show_icons=true&theme=tokyonight])
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonny-TI&layout=compact&theme=tokyonight)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhonny-TI&show_icons=true&theme=github_dark" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonny-TI&layout=compact&theme=github_dark" />
+</p>
 ---
 
 ## 🌐 Contato
