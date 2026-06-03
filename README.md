@@ -51,7 +51,7 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 ## 📊 Estatísticas
 
 <p align="center">
-<img height="170" src="https://streak-stats.demolab.com/?user=Jhonny-TI&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com/user=Jhonny-TI&theme=tokyonight"/>
 
 </p>
 
