@@ -130,12 +130,11 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 
 ---
 
-## 🌐 Contato
 
-📧 **Email:** jp0443875@gmail.com
-💼 **LinkedIn:** [seu-usuario-aqui](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
-
-⭐ *Sempre aprendendo algo novo no mundo da tecnologia!*
+## 🌐 Contato 
+<p>📧 Email: jp0443875@gmail.com</p> 
+<p>📱 Telefone: (61) 98455-9485 </p>
+<p>⭐ *Sempre aprendendo algo novo no mundo da tecnologia!*</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
