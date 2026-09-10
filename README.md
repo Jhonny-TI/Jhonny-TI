@@ -59,24 +59,23 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 ## 📌 Projetos em Destaque
 
 <p align="center">
-  <a href="https://github.com/Jhonny-TI/NOME-DO-REPO-1">
+  <a href="https://github.com/Jhonny-TI/GeekPlay">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jhonny-TI&repo=NOME-DO-REPO-1&theme=github_dark" />
   </a>
-  <a href="https://github.com/Jhonny-TI/NOME-DO-REPO-2">
+  <a href="https://github.com/Jhonny-TI/App_Desbravadores">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jhonny-TI&repo=NOME-DO-REPO-2&theme=github_dark" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Jhonny-TI/NOME-DO-REPO-3">
+  <a href="https://github.com/Jhonny-TI/Big_Data-Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jhonny-TI&repo=NOME-DO-REPO-3&theme=github_dark" />
   </a>
-  <a href="https://github.com/Jhonny-TI/NOME-DO-REPO-4">
+  <a href="https://github.com/Jhonny-TI/Desktop">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jhonny-TI&repo=NOME-DO-REPO-4&theme=github_dark" />
   </a>
 </p>
 
-> 💡 Troque `NOME-DO-REPO-X` pelos nomes reais dos seus repositórios que deseja destacar.
 
 ---
 
