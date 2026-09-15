@@ -56,7 +56,7 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 
 ---
 
-<h3 align="center">🧠 Aprendendo Atualmente</h3>
+## 🧠 Aprendendo Atualmente
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
