@@ -93,7 +93,7 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 
 <p align="center">🗄️ Banco de Dados</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" />
 </p>
 
 <p align="center">🔧 Ferramentas</p>
