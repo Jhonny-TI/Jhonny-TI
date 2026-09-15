@@ -67,29 +67,6 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 
 ---
 
-## 📌 Projetos em Destaque
-
-<p align="center">
-  <a href="https://github.com/Jhonny-TI/GeekPlay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jhonny-TI&repo=GeekPlay&theme=github_dark" />
-  </a>
-  <a href="https://github.com/Jhonny-TI/App_Desbravadores">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jhonny-TI&repo=App_Desbravadores&theme=github_dark" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Jhonny-TI/Big_Data-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jhonny-TI&repo=Big_Data-Project&theme=github_dark" />
-  </a>
-  <a href="https://github.com/Jhonny-TI/Desktop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jhonny-TI&repo=Desktop&theme=github_dark" />
-  </a>
-</p>
-
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">👨‍💻 Linguagens</p>
