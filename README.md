@@ -1,49 +1,162 @@
 <h1 align="center">👋 Olá, eu sou João Pedro Silva do Prado</h1>
 
-<h3 align="center">💻 Desenvolvedor Full Stack em Formação | Apaixonado por Código & Resolução de Problemas</h3>
+<h3 align="center">💻 Desenvolvedor Full Stack em Formação</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack+em+Forma%C3%A7%C3%A3o;Estudante+de+ADS+@+Est%C3%A1cio;Mobile+%7C+Web+%7C+Backend;Sempre+Criando+e+Evoluindo!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Estudante+de+ADS;Futuro+Desenvolvedor+Full+Stack;Sempre+Aprendendo+Algo+Novo" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Dispon%C3%ADvel%20para%20Oportunidades-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Foco-Full%20Stack-blueviolet?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jhonny-TI&label=VISITAS&color=00F7FF&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Jhonny-TI?label=Seguidores&style=for-the-badge&color=00F7FF"/>
-  <img src="https://img.shields.io/github/stars/Jhonny-TI?affiliations=OWNER&style=for-the-badge&color=00F7FF"/>
+  <img src="https://komarev.com/ghpvc/?username=Jhonny-TI&label=VISITAS&color=00F7FF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Jhonny-TI?label=Seguidores&style=for-the-badge&color=00F7FF"/>
+  <img src="https://img.shields.io/github/stars/Jhonny-TI?affiliations=OWNER&style=for-the-badge&color=00F7FF"/>
 </p>
 
 <p align="center">
-  <a href="mailto:jp0443875@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/Jhonny-TI">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  <a href="mailto:jp0443875@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/Jhonny-TI">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
-  <img width="500" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+  <img width="500" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 </p>
 
 ---
 
-## ⚡ Quick Terminal / Executando em Tempo Real
+## 🚀 Sobre Mim
 
-```bash
-# Clone e explore meu universo de desenvolvimento
-$ git clone [https://github.com/Jhonny-TI/Jhonny-TI.git](https://github.com/Jhonny-TI/Jhonny-TI.git)
+Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado em aprender novas tecnologias e criar projetos inovadores.
 
-# Inicializando perfil do desenvolvedor
-$ cd Jhonny-TI && npm run dev
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no **Centro Universitário Estácio**
 
-> Status: 🚀 Construindo soluções full stack impactantes...
-> Habilidades Principais: React Native | Java | Python | SQL
-> Localização: Brasília - DF
+🎓 Técnico de Desenvolvimento de Sistemas pelo **Senac**
+
+🏫 Ensino médio concluído no **CEMEIT**
+
+💻 Apaixonado por programação, tecnologia e desenvolvimento de sistemas
+
+🚀 Buscando evoluir como **Desenvolvedor Full Stack**
+
+📱 Atualmente desenvolvendo projetos com **React Native**, **Java**, **Python** e **Banco de Dados**
+
+📚 Estudando atualmente: *(ex: Docker, testes automatizados, APIs REST)*
+
+🎯 Objetivo: Tornar-me um **Desenvolvedor Full Stack** e contribuir para projetos que impactem positivamente a vida das pessoas
+
+---
+
+<h3 align="center">🧠 Aprendendo Atualmente</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-00599C?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Code-00F7FF?style=for-the-badge&logo=codeforces&logoColor=black" />
+</p>
+
+---
+
+## 📌 Projetos em Destaque
+
+<p align="center">
+  <a href="https://github.com/Jhonny-TI/GeekPlay">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jhonny-TI&repo=GeekPlay&theme=github_dark" />
+  </a>
+  <a href="https://github.com/Jhonny-TI/App_Desbravadores">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jhonny-TI&repo=App_Desbravadores&theme=github_dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jhonny-TI/Big_Data-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jhonny-TI&repo=Big_Data-Project&theme=github_dark" />
+  </a>
+  <a href="https://github.com/Jhonny-TI/Desktop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jhonny-TI&repo=Desktop&theme=github_dark" />
+  </a>
+</p>
+
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">👨‍💻 Linguagens</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,php,bootstrap" />
+</p>
+
+<p align="center">📚 Frameworks & Bibliotecas</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,nodejs" />
+</p>
+
+<p align="center">🗄️ Banco de Dados</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,sqlite" />
+</p>
+
+<p align="center">🔧 Ferramentas</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
+</p>
+
+<p align="center">💻 Sistemas Operacionais</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonny-TI&theme=github-dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF" />
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonny-TI&layout=compact&theme=github_dark&hide_border=true&title_color=00F7FF" />
+</p>
+
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics">
+</p>
+
+---
+
+## 💡 Competências & Interesses
+
+* **Metodologias:** Scrum, Kanban e versionamento com Git Flow.
+* **Resolução de Problemas:** Foco em arquitetura de código limpo e refatoração.
+* **Soft Skills:** Comunicação clara, trabalho em equipe e proatividade.
+* **Interesses:** Desenvolvimento Mobile, Cloud Computing e UI/UX Design.
+
+---
+
+## 🌐 Contato 
+<p>📧 Email: jp0443875@gmail.com</p> 
+<p>📱 Telefone: (61) 98455-9485 </p>
+<p>⭐ *Sempre aprendendo algo novo no mundo da tecnologia!*</p>
+
+<p align="center">
+  <img src="https://readme-quotes-generater.vercel.app/api?theme=dark&border_color=00F7FF" alt="Dev Quote" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+                  
