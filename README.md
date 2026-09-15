@@ -98,7 +98,7 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 
 <p align="center">🔧 Ferramentas</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,portugolstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
 </p>
 
 <p align="center">💻 Sistemas Operacionais</p>
