@@ -105,16 +105,6 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonny-TI&layout=compact&theme=github_dark&hide_border=true&title_color=00F7FF" />
-</p>
-
-<p align="center">
-  <img src="/github-metrics.svg" alt="Metrics">
-</p>
-
----
-
 ## 💡 Competências & Interesses
 
 * **Metodologias:** Scrum, Kanban e versionamento com Git Flow.
@@ -129,9 +119,6 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
 <p>📱 Telefone: (61) 98455-9485 </p>
 <p>⭐ *Sempre aprendendo algo novo no mundo da tecnologia!*</p>
 
-<p align="center">
-  <img src="https://readme-quotes-generater.vercel.app/api?theme=dark&border_color=00F7FF" alt="Dev Quote" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
