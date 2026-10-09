@@ -102,7 +102,14 @@ Sou estudante de tecnologia apaixonado por desenvolvimento de software, focado e
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonny-TI&theme=github-dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?user=Jhonny-TI&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=false&border_radius=10&title_color=00FF66&icon_color=00FF66" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=Jhonny-TI&layout=compact&theme=github_dark&hide_border=false&border_radius=10&title_color=00FF66" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhonny-TI&theme=github_dark&hide_border=false&border_radius=10&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" />
+</p>
 ---
 
 ## 💡 Competências & Interesses
